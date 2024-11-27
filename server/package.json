@@ -4,7 +4,6 @@
   "description": "Server implementation for CampusUnify",
   "main": "app.js",
   "scripts": {
-    "build" : "echo 'No build step required'",
     "start": "node server.js",
     "dev": "nodemon server.js",
     "lint": "eslint .",
